@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaguco1
-- 👀 I’m interested in ... Technology
-- 🌱 I’m currently learning ... Python, STmicro assembler 8 bit, C, C++, among other internet tabs. 
+- 👀 I’m interested in ... TechnologyCancel changes
+- 🌱 I’m currently learning ... Python, STmicro assembler 8 bit, C, C++, Arduino IoT, among other internet tabs. 
 - 💞️ I’m looking to collaborate on ... feasible projects with a clear goal
 - 📫 How to reach me ... 
 
